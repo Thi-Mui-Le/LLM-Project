@@ -1,8 +1,8 @@
 
 ##  How to Explore the Project
 
-1. **Open Files by Meeting Date**
-   - Go to folders named with the date of each working session.
+1. **Open The folder (based on Meeting Date)**
+   - Go to the folder named with the date of each working session.
    - Relevant `.ipynb`, `.zarr`, or `.csv` files are inside.
 
 2. **Read the PDF Document for Workflow**
